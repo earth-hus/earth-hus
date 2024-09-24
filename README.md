@@ -1,6 +1,13 @@
 # Ethar Hussein👋🏼🧕🏻
 ### B.S. Computer Science (Grainger College of Engineering) @UIUC - 2024 (Dec)
 -----
+## Fall 2024 Focus (Graduate: Dec 2024):💻
+- Distributed Systems
+- Leetcode
+- Interview Prep
+- New Grad Applications
+- Systems Programming - C Programming
+
 ## Summer 2024 Focus:💻
 - Startups
 - Back End Programming
