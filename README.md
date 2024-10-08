@@ -21,5 +21,6 @@
 - Email: ethar.hussein333@gmail.com
 - Linkedin: https://www.linkedin.com/in/ethar-hussein-57b7b318b/
 - Portfolio: https://earth-hus.github.io/
+- GitHub: https://github.com/earth-hus
 
 
